@@ -52,23 +52,3 @@ I'm a passionate **Laravel Developer** with expertise in building scalable web a
 
 ---
 
-## 🎨 Fun Animation Idea (Portfolio)
-If you want **interactive “Hi There” animation** on your personal portfolio, use this HTML snippet:
-
-```html
-<h1>👋 Hi there! I’m Kuldeep Dubey</h1>
-<style>
-  h1 {
-    font-size: 3rem;
-    animation: wave 2s infinite;
-    display: inline-block;
-  }
-
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    20% { transform: rotate(15deg); }
-    40% { transform: rotate(-10deg); }
-    60% { transform: rotate(15deg); }
-    80% { transform: rotate(-10deg); }
-  }
-</style>
