@@ -1,5 +1,7 @@
 # 👋 Hi there! I’m Kuldeep Dubey
 
+![Hi There Animation](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+
 I'm a passionate **Laravel Developer** with expertise in building scalable web applications, APIs, and dynamic dashboards. I love writing clean code and crafting intuitive user interfaces.
 
 ---
@@ -24,47 +26,49 @@ I'm a passionate **Laravel Developer** with expertise in building scalable web a
 ---
 
 ## 💡 Projects
-1. **QR Code Hotel Menu System**
-   - Users scan QR to view menu with hotel video background.
-   - Admin panel to manage menu images, rotate, and merge images.
-   - Tech: PHP, MySQL, Bootstrap, JS  
+### 1. QR Code Hotel Menu System
+- Users scan QR to view menu with hotel video background.
+- Admin panel to manage menu images, rotate, and merge images.
+- **Tech:** PHP, MySQL, Bootstrap, JS  
 
-2. **Hospital Appointment System**
-   - Patient & doctor registration, book/cancel appointments.
-   - Tech: React, Node, Express, MongoDB  
+### 2. Hospital Appointment System
+- Patient & doctor registration, book/cancel appointments.
+- **Tech:** React, Node, Express, MongoDB  
 
-3. **Bidder Auction System**
-   - Real-time bidding for transport services.
-   - Tech: PHP, MySQL, JavaScript  
+### 3. Bidder Auction System
+- Real-time bidding for transport services.
+- **Tech:** PHP, MySQL, JavaScript  
 
-4. **Event Ticket Booking Module**
-   - CRUD operations for events and ticket management.
-   - Tech: Laravel, MySQL, TailwindCSS  
+### 4. Event Ticket Booking Module
+- CRUD operations for events and ticket management.
+- **Tech:** Laravel, MySQL, TailwindCSS  
 
 ---
 
-## ✨ Hi There Animation
-Here’s a sample HTML/CSS animation you can embed in your portfolio or GitHub Pages:
+## 📫 Contact Me
+- Email: kuldeep@example.com  
+- LinkedIn: [linkedin.com/in/kuldeepdubey](https://linkedin.com/in/kuldeepdubey)  
+- GitHub: [github.com/kuldeepdubey](https://github.com/kuldeepdubey)
+
+---
+
+## 🎨 Fun Animation Idea (Portfolio)
+If you want **interactive “Hi There” animation** on your personal portfolio, use this HTML snippet:
 
 ```html
-<div class="hi-animation">
-  <h1>👋 Hi There!</h1>
-</div>
-
+<h1>👋 Hi there! I’m Kuldeep Dubey</h1>
 <style>
-.hi-animation h1 {
-  font-size: 3rem;
-  color: #ff4c60;
-  text-align: center;
-  animation: wave 2s infinite;
-  display: inline-block;
-}
+  h1 {
+    font-size: 3rem;
+    animation: wave 2s infinite;
+    display: inline-block;
+  }
 
-@keyframes wave {
-  0%, 100% { transform: rotate(0deg); }
-  20% { transform: rotate(15deg); }
-  40% { transform: rotate(-10deg); }
-  60% { transform: rotate(15deg); }
-  80% { transform: rotate(-10deg); }
-}
+  @keyframes wave {
+    0%, 100% { transform: rotate(0deg); }
+    20% { transform: rotate(15deg); }
+    40% { transform: rotate(-10deg); }
+    60% { transform: rotate(15deg); }
+    80% { transform: rotate(-10deg); }
+  }
 </style>
