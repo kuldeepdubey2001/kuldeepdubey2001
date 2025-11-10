@@ -9,8 +9,8 @@ I'm a passionate **Laravel Developer** with expertise in building scalable web a
 ## 🌟 About Me
 - 💻 Profession: Software Developer (Laravel, PHP, MySQL)
 - 📍 Location: Indore, India
-- 🎓 Education: MCA – 8.7 CGPA, BCom – 62%
-- ⚡ Skills: Laravel, PHP, JavaScript, HTML, CSS, MySQL, AJAX, React (Basics), Tailwind, Bootstrap
+- 🎓 Education: MCA – 8.7 CGPA
+- ⚡ Skills: Laravel, PHP, JavaScript, HTML, CSS, MySQL, AJAX, Tailwind, Bootstrap
 - 📂 Interests: Web Development, QR Code Applications, Hotel Management Systems, Event Booking Systems
 
 ---
